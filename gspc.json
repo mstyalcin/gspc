@@ -1,0 +1,124 @@
+{
+  "question": [
+    {
+      "id": "1",
+      "question": "Galatasaray'ın en başarılı başkanı kim?",
+      "question_hint": "#adsoyad birleşik olarak deneyiniz",
+      "question_sort": "1",
+      "question_answer": [
+        {
+          "id": 1,
+          "question_id": 1,
+          "answer": "faruksuren",
+          "answer_value": 60
+        },
+        {
+          "id": 2,
+          "question_id": 1,
+          "answer": "unalaysal",
+          "answer_value": 23
+        },
+        {
+          "id": 3,
+          "question_id": 1,
+          "answer": "alisamiyen",
+          "answer_value": 5
+        },
+        {
+          "id": 4,
+          "question_id": 1,
+          "answer": "alitanriyar",
+          "answer_value": 4
+        },
+        {
+          "id": 5,
+          "question_id": 1,
+          "answer": "adnanpolat",
+          "answer_value": 3
+        },
+        {
+          "id": 6,
+          "question_id": 1,
+          "answer": "mehmetcansun",
+          "answer_value": 3
+        },
+        {
+          "id": 7,
+          "question_id": 1,
+          "answer": "ozhancanaydin",
+          "answer_value": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "question": "Galatasaray'ın en başarısız başkanı kim?",
+      "question_hint": "#adsoyad birleşik olarak deneyiniz",
+      "question_sort": "2",
+      "question_answer": [
+        {
+          "id": 8,
+          "question_id": 2,
+          "answer": "adnanpolat",
+          "answer_value": 59
+        },
+        {
+          "id": 9,
+          "question_id": 2,
+          "answer": "duygunyarsuvat",
+          "answer_value": 19
+        },
+        {
+          "id": 10,
+          "question_id": 2,
+          "answer": "ozhancanaydin",
+          "answer_value": 11
+        },
+        {
+          "id": 11,
+          "question_id": 2,
+          "answer": "unalaysal",
+          "answer_value": 6
+        },
+        {
+          "id": 12,
+          "question_id": 2,
+          "answer": "mehmetcansun",
+          "answer_value": 5
+        },
+      ]
+    },
+	{
+      "id": "3",
+      "question": "Galatasaray'ın en başarılı teknik direktörü kim?",
+      "question_hint": "Yerli ise #adsoyad birleşik, yabancı ise #soyad deneyiniz",
+      "question_sort": "3",
+      "question_answer": [
+        {
+          "id": 13,
+          "question_id": 3,
+          "answer": "fatihterim",
+          "answer_value": 80
+        },
+        {
+          "id": 14,
+          "question_id": 3,
+          "answer": "lucescu",
+          "answer_value": 9
+        },
+        {
+          "id": 15,
+          "question_id": 3,
+          "answer": "derwall",
+          "answer_value": 7
+        },
+        {
+          "id": 16,
+          "question_id": 3,
+          "answer": "gerets",
+          "answer_value": 4
+        }
+      ]
+    }
+  ]
+}
