@@ -85,10 +85,10 @@
           "question_id": 2,
           "answer": "mehmetcansun",
           "answer_value": 5
-        },
+        }
       ]
     },
-	{
+    {
       "id": "3",
       "question": "Galatasaray'ın en başarılı teknik direktörü kim?",
       "question_hint": "Yerli ise #adsoyad birleşik, yabancı ise #soyad deneyiniz",
