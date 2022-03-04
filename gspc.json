@@ -1,10 +1,10 @@
 {
   "question": [
     {
-      "id": "1",
+      "id": 1,
       "question": "Galatasaray'ın en başarılı başkanı kim?",
       "question_hint": "#adsoyad birleşik olarak deneyiniz",
-      "question_sort": "1",
+      "question_order": 1,
       "question_answer": [
         {
           "id": 1,
@@ -51,10 +51,10 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "question": "Galatasaray'ın en başarısız başkanı kim?",
       "question_hint": "#adsoyad birleşik olarak deneyiniz",
-      "question_sort": "2",
+      "question_order": 2,
       "question_answer": [
         {
           "id": 8,
@@ -89,10 +89,10 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
       "question": "Galatasaray'ın en başarılı teknik direktörü kim?",
       "question_hint": "Yerli ise #adsoyad birleşik, yabancı ise #soyad deneyiniz",
-      "question_sort": "3",
+      "question_order": 3,
       "question_answer": [
         {
           "id": 13,
